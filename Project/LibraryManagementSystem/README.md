@@ -15,7 +15,7 @@ Note: All data is stored in memory; no database is used.
 
 How to Run:
   1. Clone the repository:
-       git clone https://github.com/iSaiAakash/LibraryManagementSystem.git
+       git clone https://github.com/iSaiAakash/java-practice-projects/blob/main/Project/LibraryManagementSystem
   2. Open the project in your IDE (Eclipse, IntelliJ, VSCode with Java support)
   3. Run the main file:
        java LibraryApp.java
