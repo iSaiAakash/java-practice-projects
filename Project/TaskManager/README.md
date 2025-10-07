@@ -14,7 +14,7 @@ Note: All tasks are stored in memory; no database is used.
 
 How to Run:
   1. Clone the repository:
-       git clone https://github.com/iSaiAakash/ToDoTaskManager.git
+       git clone https://github.com/iSaiAakash/ToDoTaskManager
   2. Open the project in your IDE (Eclipse, IntelliJ, VSCode with Java support)
   3. Run the main file:
        java TodoMain.java
